@@ -1,1 +1,1 @@
-# Angular_with_django
+# Angular , django and postgress db
